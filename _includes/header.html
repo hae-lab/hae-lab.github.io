@@ -1,0 +1,16 @@
+<header>
+  <nav>
+    <h1>
+      <a href="/" id="lab-title">
+        HAE<small>Lab</small>
+        <span id="lab-subtitle">Human-centered Analytics &amp; Enablement</span>
+      </a>
+    </h1>
+    <ul>
+      <li><a href="/" {% if page.url=="/" %}class="active" {% endif %}>Home</a></li>
+      <li><a href="/publications" {% if page.url contains "/publications" %}class="active" {% endif %}>Publications</a>
+      </li>
+      <li><a href="/joinus" {% if page.url contains "/joinus" %}class="active" {% endif %}>Join Us</a></li>
+    </ul>
+  </nav>
+</header>
