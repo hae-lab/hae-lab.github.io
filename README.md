@@ -1,4 +1,4 @@
-# Website for the Datability Lab
+# Website for HAE Lab
 
 ## Development
 

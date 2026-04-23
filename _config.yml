@@ -1,11 +1,11 @@
-title: Sehi L'Yi
-email: sehi_lyi@hms.harvard.edu
+title: HAE Lab
+email: sehilyi@gmail.com
 description: >-
-  Sehi L'Yi is a postdoctoral research fellow at Harvard Medical School.
+  HAE Lab
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hae-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sehi_lyi
-github_username: sehilyi
+github_username: hae-lab
 
 styles:
   - /assets/index.css
