@@ -21,7 +21,7 @@ tags:
     - accessibility
 
 venue_name_short: AccessViz@VIS
-venue_name:  IEEE VIS Workshop on Workshop on Accessible Data Visualization (AccessViz)
+venue_name:  IEEE VIS Workshop on Accessible Data Visualization (AccessViz)
 venue_index: 
 
 publisher_url: https://ieeexplore.ieee.org/document/10747560/
