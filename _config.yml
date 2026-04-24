@@ -21,7 +21,7 @@ collections:
     output: true
   software:
     output: true
-  themes:
+  projects:
     output: true
 
 plugins:

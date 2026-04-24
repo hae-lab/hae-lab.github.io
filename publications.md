@@ -4,11 +4,12 @@ title: HAE Lab | Publications
 permalink: /publications/
 ---
 
+<div class="hero">
 <h2 class="largestest">Publications</h2>
-
 <span id='lab-desc'>
 Our work appears in leading venues across visualization, human-computer interaction, and data science.
 </span>
+</div>
 
 <div class='publication-info'>
     <ul>
@@ -21,7 +22,7 @@ Our work appears in leading venues across visualization, human-computer interact
         </li>
         <li>** students I supervised as the primary mentor for conducting the corresponding research</li>
         -->
-        <li>‡ equal contribution</li>
+        <li>‡ indicates equal contribution</li>
     </ul>
 </div>
 

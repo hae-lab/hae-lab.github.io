@@ -6,8 +6,8 @@ title: Home
 <div class="hero">
   <h2 class="largestest">HKUST HAE Lab</h2>
   <span id='lab-desc'>
-    <b>We design interactive data systems that make complex data accessible, interpretable, and actionable for everyone.</b>
-    HAE Lab is an interdisciplinary research lab located at the <a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a> at the <a href="http://hkust.edu.hk/">Hong Kong University of Science and Technology</a>, led by <a href="https://sehilyi.com">Dr. Sehi L'Yi</a>.
+    We design interactive data systems that make complex data accessible, interpretable, and actionable for everyone.
+    HAE Lab is an interdisciplinary research lab located at the <a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a> at the <a href="http://hkust.edu.hk/">Hong Kong University of Science and Technology (HKUST)</a>, led by <a href="https://sehilyi.com">Sehi L'Yi</a>.
   </span>
 </div>
 
@@ -21,7 +21,7 @@ title: Home
 
 ## Selected Projects
 <div class="themes">
-    {% assign themes = site.themes | sort: 'order' %}
+    {% assign themes = site.projects | sort: 'order' %}
     {% for theme in themes %}
     {% include theme.html %}
     {% endfor %}
@@ -42,8 +42,8 @@ title: Home
   </div>
   <div class="join-lab-box">
     <h3>Join Our Lab</h3>
-    <p>We are always looking for curious and motivated students and postdocs.</p>
-    <a href="/joinus" class="join-lab-btn">View Openings →</a>
+    <p>We are always looking for highly-motivated students and postdocs.</p>
+    <a href="/join" class="join-lab-btn">View Openings →</a>
   </div>
 </div>
 

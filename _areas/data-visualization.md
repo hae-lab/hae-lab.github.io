@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visualization Systems
+title: Data Visualization
 desc: Designing systems for authoring and exploring visualizations.
 order: 1
 ---

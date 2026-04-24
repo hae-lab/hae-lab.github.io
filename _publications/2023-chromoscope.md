@@ -5,6 +5,7 @@ year: 2023
 title: "Chromoscope: interactive multiscale visualization for structural variation in human genomes"
 image: chromoscope-16-by-9.png
 featured: true
+award: "Innovation In Cancer Informatics Major Grant Award 2023"
 
 authors:
     - Sehi L'Yi

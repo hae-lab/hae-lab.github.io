@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scalable Analytics
-desc: Building systems that scale to large, complex, and high-dimensional data.
+title: Human–AI Collaboration
+desc: Building AI systems for interacting with large, complex, and high-dimensional data.
 order: 3
 ---
