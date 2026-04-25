@@ -7,7 +7,6 @@ $content-pad: 1rem;
 $text-color: #0C0C0C;
 $color-lightgrey: #F0F0F0;
 $color-grey: #555;
-
 $theme-color: #003366;
 $theme-color-secondary: #CC9900;
 $theme-color-secondary-light: #CC990011;
@@ -128,6 +127,10 @@ nav ul {
   padding: 0;
 }
 
+#menu-toggle {
+  display: none;
+}
+
 nav h1,
 nav li {
   display: inline-block;
@@ -228,11 +231,56 @@ footer {
     padding-right: 0.5rem;
   }
 
+  #menu-toggle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    background: none;
+    cursor: pointer;
+    padding: 0.4rem;
+    margin-left: auto;
+    border: none;
+
+    span {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: black;
+      transition: transform 0.2s ease, opacity 0.2s ease;
+    }
+
+    &.open span:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+
+    &.open span:nth-child(2) {
+      opacity: 0;
+    }
+
+    &.open span:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+  }
+
+  header nav {
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
   header ul {
-    padding-left: 1rem;
+    display: none;
+    width: 100%;
+    padding: 0.5rem 0 1rem;
+
+    &.open {
+      display: block;
+    }
 
     li {
-      margin-left: 1rem;
+      display: block;
+      margin-left: 0;
+      margin-bottom: 0.3rem;
     }
   }
 }
@@ -256,10 +304,10 @@ footer {
   color: $color-grey;
   margin-top: 3rem;
   padding: 0.2rem $content-pad;
-  width: calc(100% - $content-pad - $content-pad);
   text-align: left;
   letter-spacing: 2;
   border-top: 1px solid $color-lightgrey;
+  width: calc(100% - #{$content-pad * 2});
 }
 
 .areas {
