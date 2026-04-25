@@ -300,6 +300,45 @@ footer {
   }
 }
 
+.pi-profile {
+  margin-top: 1rem;
+  overflow: hidden;
+
+  p {
+    margin: 0;
+  }
+}
+
+.hae-section {
+  margin-top: 1rem;
+  overflow: hidden;
+
+  p {
+    margin: 0;
+  }
+}
+
+.hkust-logo {
+  float: right;
+  width: 100px;
+  height: auto;
+  margin-left: 2rem;
+  margin-bottom: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.pi-headshot {
+  float: left;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 0.3rem;
+  margin-right: 1rem;
+  margin-top: 0.6rem;
+  margin-bottom: 0.2rem;
+}
+
 footer {
   color: $color-grey;
   margin-top: 3rem;
@@ -752,5 +791,10 @@ footer {
 
   .media .media-thumbnail {
     max-width: 30rem;
+  }
+
+  .pi-headshot {
+    width: 120px;
+    height: 120px;
   }
 }

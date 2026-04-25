@@ -10,9 +10,11 @@
       <span></span><span></span><span></span>
     </button>
     <ul id="nav-menu">
+      <li><a href="/" {% if page.url == "/" %}class="active" {% endif %}>Home</a></li>
       <li><a href="/publications" {% if page.url contains "/publications" %}class="active" {% endif %}>Publications</a>
       </li>
       <li><a href="/join" {% if page.url contains "/join" %}class="active" {% endif %}>Join Us</a></li>
+      <li><a href="/about" {% if page.url contains "/about" %}class="active" {% endif %}>About</a></li>
     </ul>
   </nav>
 </header>
