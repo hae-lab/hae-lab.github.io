@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: HAE Lab | Home
 ---
 
 <div class="hero">
