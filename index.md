@@ -42,7 +42,7 @@ title: HAE Lab | Home
   </div>
   <div class="join-lab-box">
     <h3>Join Our Lab</h3>
-    <p>We are always looking for highly-motivated students and postdocs.</p>
+    <p>We are always looking for highly-motivated students.</p>
     <a href="/join" class="join-lab-btn">View Openings →</a>
   </div>
 </div>
