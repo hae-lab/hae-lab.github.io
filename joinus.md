@@ -19,7 +19,7 @@ permalink: /join/
 </div>
 
 ## Research Interest
-Our lab is working on **Data Visualization**, **Human–Data Interaction**, **Data Accessibility**, and **Biomedical/Health Informatics**. Specifically, our lab focuses on making real-world impact by designing, evaluating, and deploying practical solutions that address actual problems of target users. If you are interested in at least two of the areas above, your research interest would align with ours. Please find our latest research projects in the [Publications page](/publications).
+Our lab is working on **Data Visualization**, **Human–AI Interaction**, and **Biomedical/Health Informatics**. Specifically, our lab focuses on making real-world impact by designing, evaluating, and deploying practical solutions that address actual problems of target users. If you are interested in at least two of the areas above, your research interest would likely align with ours. Please find our latest research projects in the [Publications page](/publications).
 
 ## How To Contact
 If you are interested in discussing the research opportunity, you can send an email to Sehi L'Yi ([sehilyi@gmail.com](mailto:sehilyi@gmail.com)). It would be great if you could also [fill out this form](https://forms.gle/5AijhJSiQ4sSPdcR8).
