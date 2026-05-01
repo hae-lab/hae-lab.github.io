@@ -7,7 +7,7 @@ title: HAE Lab | Home
   <h2 class="largestest">HKUST HAE Lab</h2>
   <span id='lab-desc'>
     We design interactive data systems that make complex data accessible, interpretable, and actionable for everyone.
-    HAE Lab is an interdisciplinary research lab located at the <a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a> at the <a href="http://hkust.edu.hk/">Hong Kong University of Science and Technology (HKUST)</a>, led by <a href="https://sehilyi.com">Sehi L'Yi</a>.
+    The HAE Lab (working name) is an interdisciplinary research lab located at the <a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a> at the <a href="http://hkust.edu.hk/">Hong Kong University of Science and Technology (HKUST)</a>, led by <a href="https://sehilyi.com">Sehi L'Yi</a>.
   </span>
 </div>
 
