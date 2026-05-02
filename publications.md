@@ -7,7 +7,7 @@ permalink: /publications/
 <div class="hero">
 <h2 class="largestest">Publications</h2>
 <span id='lab-desc'>
-Our work appears in leading venues across visualization, human-computer interaction, and data science.
+Our work appears in leading venues across visualization, human-computer interaction, and biomedical informatics.
 </span>
 </div>
 

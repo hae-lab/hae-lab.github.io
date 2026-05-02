@@ -6,9 +6,6 @@ permalink: /join/
 
 <div class="hero">
 <h2 class="largestest">Join Us</h2>
-<span id='lab-desc'>
-    We are always looking for highly-motivated students!
-</span>
 </div>
 
 ## About PI

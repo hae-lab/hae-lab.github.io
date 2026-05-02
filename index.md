@@ -6,7 +6,7 @@ title: HAE Lab | Home
 <div class="hero">
   <h2 class="largestest">HKUST HAE Lab</h2>
   <span id='lab-desc'>
-    We design interactive data systems that make complex data accessible, interpretable, and actionable for everyone.
+    We work at the intersection of visualization, human-computer interaction, artificial intelligence, and biomedical informatics.
     The HAE Lab (working name) is an interdisciplinary research lab located at the <a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a> at the <a href="http://hkust.edu.hk/">Hong Kong University of Science and Technology (HKUST)</a>, led by <a href="https://sehilyi.com">Sehi L'Yi</a>.
   </span>
 </div>
@@ -43,11 +43,11 @@ title: HAE Lab | Home
   <div class="join-lab-box">
     <h3>Join Our Lab</h3>
     <p>We are always looking for highly-motivated students.</p>
-    <a href="/join" class="join-lab-btn">View Openings →</a>
+    <a href="https://sehilyi.com/join" class="join-lab-btn">View Openings →</a>
   </div>
 </div>
 
-## Selected Publications <small><a href="/publications/">[see more]</a></small>
+## Selected Publications <small><a href="https://sehilyi.com/publications">[see more]</a></small>
 
 <table class="publications">
     {% assign featured_publications = site.publications | where: 'featured', true | sort: 'year' | reverse | slice: 0,10 %}

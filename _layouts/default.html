@@ -4,7 +4,12 @@
     {% include head.html %}
   </head>
   <body>
-    {% include header.html %}
+    <div style="position:sticky;top:0;z-index:1000;">
+      <div style="background:#f5a623;color:#000;text-align:center;padding:10px 16px;font-size:14px;">
+        This website is under construction. For up-to-date information, please visit the PI's website at <a href="https://sehilyi.com" style="color:#000;font-weight:bold;">sehilyi.com</a>.
+      </div>
+      {% include header.html %}
+    </div>
     <main class="content">
       {{ content }}
     </main>
